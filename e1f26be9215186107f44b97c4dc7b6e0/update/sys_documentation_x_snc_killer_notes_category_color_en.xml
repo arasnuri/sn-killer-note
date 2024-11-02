@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="color" label="Color" language="en" table="x_snc_killer_notes_category">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <help/>
+            <hint/>
+            <label>Color</label>
+            <language>en</language>
+            <name>x_snc_killer_notes_category</name>
+            <plural>Colors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 18:58:58</sys_created_on>
+            <sys_id>d4f9c4bd215586107f44b97c4dc7b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Color</sys_name>
+            <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_killer_notes_category_color_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 18:58:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
