@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
-        <macroponent_config>{}</macroponent_config>
+        <macroponent_config>{
+    "views": "somearbitraryvaluethatwouldneverexist"
+}</macroponent_config>
         <screen display_value="Home default">ef0d4cb1219586107f44b97c4dc7b60d</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 19:12:34</sys_created_on>
         <sys_id>af0d4cb1219586107f44b97c4dc7b611</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
         <sys_update_name>sys_uib_screen_test_values_af0d4cb1219586107f44b97c4dc7b611</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-01 20:42:29</sys_updated_on>
+        <sys_updated_on>2024-11-02 12:43:05</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>

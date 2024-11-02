@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_snc_killer_notes_meeting_notes_import</name>
+        <name>x_snc_killer_notes_note</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-04-02 18:40:22</sys_created_on>
-        <sys_id>782ffc077d5102107f44c369deec57ed</sys_id>
+        <sys_created_on>2024-04-01 18:36:59</sys_created_on>
+        <sys_id>14ee153ac3619610775b7a94e4013122</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_killer_notes_meeting_notes_import</sys_name>
+        <sys_name>x_snc_killer_notes_note</sys_name>
         <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
-        <sys_update_name>ua_table_licensing_config_782ffc077d5102107f44c369deec57ed</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_14ee153ac3619610775b7a94e4013122</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-02 18:40:22</sys_updated_on>
+        <sys_updated_on>2024-04-01 18:36:59</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

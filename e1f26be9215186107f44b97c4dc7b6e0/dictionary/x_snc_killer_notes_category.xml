@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fac9c4f9215586107f44b97c4dc7b645" label="Category" max_length="40" name="x_snc_killer_notes_category" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="color" type="color"/>
+        <element attributes="edge_encryption_enabled=true" label="Icon" max_length="100" name="icon" type="icon"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="29c40039215586107f44b97c4dc7b664" label="Note" max_length="40" name="x_snc_killer_notes_note" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="bdcb83a85f220100a9ad2572f2b4773d" label="User" max_length="32" name="user" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Category" mandatory="true" max_length="32" name="category" reference="x_snc_killer_notes_category" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Text" max_length="8000" name="text" type="html"/>
+        <element label="Title" mandatory="true" max_length="100" name="title" type="string"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

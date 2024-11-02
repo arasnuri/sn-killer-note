@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 18:58:59</sys_created_on>
-        <sys_id>642ffc077d5102107f44c369deec57b2</sys_id>
+        <sys_id>04eed13ac3619610775b7a94e40131e7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_killer_notes_category</sys_name>
         <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
-        <sys_update_name>ua_table_licensing_config_642ffc077d5102107f44c369deec57b2</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_04eed13ac3619610775b7a94e40131e7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-04-01 18:58:59</sys_updated_on>
     </ua_table_licensing_config>
